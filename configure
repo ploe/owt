@@ -1,0 +1,8 @@
+#! /bin/bash
+
+git clone https://github.com/ploe/hashish.git
+cd hashish
+./configure
+make
+
+cd -
